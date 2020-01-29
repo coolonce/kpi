@@ -11,4 +11,4 @@
 |
 */
 
-Route::get('/', 'ManagerList@get');
+Route::get('/', 'ManagerListController@get');
